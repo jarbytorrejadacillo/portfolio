@@ -1,4 +1,5 @@
-# 🔥 Responsive Portfolio Website Ansel
+# Credit to Bedimode
+# 🔥 Responsive Portfolio
 ## [Watch it on youtube](https://youtu.be/oy8dSsK57Ps)
 ### 🔥 Responsive Portfolio Website
 
@@ -8,6 +9,6 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-Credit to Bedimode(https://www.youtube.com/c/Bedimcode)
+Please check his youtube channel  (https://www.youtube.com/c/Bedimcode)
 
 
